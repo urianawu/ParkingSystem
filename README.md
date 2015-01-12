@@ -3,7 +3,7 @@ parking system made in Java, it has three different user interface: one for memb
 Local file storage is used in this system
 
 # Credit
-This is a work by team of 6.\n
+This is a work by team of 6.
 I am the UI designer and programmer.
 
 # User Manual
